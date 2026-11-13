@@ -9,8 +9,8 @@ This repository documents my Week 2 practical activities as part of the NetworkW
 
 ## Modules Covered
 
-- W2-PM1: Footprinting Using Multiple Kali Linux Tools
-- W2-PM5: Network Scanning with Zenmap
+- W2-PM1 – Footprinting and Reconnaissance
+- W2-PM5 – Zenmap Host Discovery and Network Topology
 
 ## Tools Used
 
@@ -19,32 +19,31 @@ This repository documents my Week 2 practical activities as part of the NetworkW
 - WhatWeb
 - Nslookup
 - cURL
-- WAFW00F
 - DNSRecon
-- Nmap
-- Zenmap
+- WAFW00F
+- Zenmap / Nmap
 
-## Activities Performed
+## Repository Structure
 
-- Domain information gathering
-- Website technology fingerprinting
-- DNS enumeration
-- HTTP header analysis
-- Web Application Firewall detection
-- Local network host discovery
-- Network topology visualization
+- `report/` – Week 2 technical penetration testing report.
+- `evidence/` – Screenshots showing practical activities and results.
 
-## Repository Contents
+## Scope and Authorization
 
-- `Report/` – Final Week 2 technical report.
-- `Screenshots/` – Practical screenshots and evidence.
+Testing activities were limited to the assigned training scope and the tester's own local network. Activities were conducted for educational purposes, within the permission communicated during the training.
+
+No exploitation, denial-of-service, brute-force attacks, or unauthorized access was performed.
+
+## Key Learning Outcomes
+
+- Understanding website footprinting.
+- Identifying DNS records and web technologies.
+- Performing basic network host discovery.
+- Visualizing network topology using Zenmap.
+- Documenting findings and security recommendations.
 
 ## Author
 
 **Muhammad Abdurrahim Hussaini**
 
-Cybersecurity Student | NetworkWalks Cybersecurity Intern
-
-## Disclaimer
-
-All activities documented here were performed for educational purposes within the assigned internship lab scope. No exploitation or unauthorized access was conducted.
+NetworkWalks Cybersecurity Internship – Week 2
